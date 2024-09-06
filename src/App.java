@@ -1,0 +1,47 @@
+public class App {
+    public static void main(String[] args) throws Exception {
+       System.out.println("Printer app");
+       System.out.println("This app is made by");
+       String creator = "Amila Tharangani";
+        String Y = "This app is made by:";
+       System.out.println( Y + creator);
+
+       int number1 = 5;
+       int number2 = 2;
+       System.out.println(number1); // Printed number1 , 7th question
+       System.out.println(number2);
+
+       String W = "The value of number1 is :"; 
+       System.out.println( W + number1);
+       String Z = "The value of number2 is :";
+       System.out.println( Z+ number2);
+
+       int multiplication = (number1 * number2);
+       System.out.println(number1  + "*" + number2 + "=" + multiplication);
+
+       
+       int adding = (number1 + number2);
+       System.out.println(number1  + "+" + number2 + "=" + adding);
+
+       int Substraction = (number1 - number2);
+       System.out.println(number1  + "-" + number2 + "=" + Substraction);
+
+       double division = (number1 / number2);
+       System.out.println(number1  + "/" + number2 + "=" + division);
+
+
+       
+      
+
+
+
+       
+
+   
+
+
+
+
+    
+    }
+}
