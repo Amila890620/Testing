@@ -11,7 +11,7 @@ public class App {
        int number3 = 80;
        System.out.println(number1); // Printed number1 , 7th question
        System.out.println(number2);
-       System.out.println(Y);
+       System.out.println(number3);
 
        String W = "The value of number1 is :"; 
        System.out.println( W + number1);
@@ -31,6 +31,8 @@ public class App {
        double division = (number1 / number2);
        System.out.println(number1  + "/" + number2 + "=" + division);
 
+       int add = (number2 + number3);
+       System.out.println(number2  + "+" + number3 + "=" + add);
 
     
     }
