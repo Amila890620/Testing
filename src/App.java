@@ -8,6 +8,7 @@ public class App {
 
        int number1 = 70;
        int number2 = 20;
+       int number3 = 80;
        System.out.println(number1); // Printed number1 , 7th question
        System.out.println(number2);
 
@@ -28,18 +29,6 @@ public class App {
 
        double division = (number1 / number2);
        System.out.println(number1  + "/" + number2 + "=" + division);
-
-
-       
-      
-
-
-
-       
-
-   
-
-
 
 
     
