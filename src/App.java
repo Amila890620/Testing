@@ -34,6 +34,7 @@ public class App {
        int add = (number2 + number3);
        System.out.println(number2  + "+" + number3 + "=" + add);
 
-    
+       int multi = (number2 * number3);
+       System.out.println(number2  + "*" + number3 + "=" + multi);
     }
 }
