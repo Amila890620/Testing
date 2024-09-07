@@ -10,9 +10,11 @@ public class App {
        int number2 = 20;
        int number3 = 80;
        int number4=100;
+
        System.out.println(number1); // Printed number1 , 7th question
        System.out.println(number2);
        System.out.println(number3);
+       System.out.println(number4);
 
        String W = "The value of number1 is :"; 
        System.out.println( W + number1);
