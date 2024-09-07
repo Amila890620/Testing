@@ -16,6 +16,10 @@ public class App {
        System.out.println(number3);
        System.out.println(number4);
 
+       int total = number1+number2+number3+number4;
+       System.out.println(total);
+
+
        String W = "The value of number1 is :"; 
        System.out.println( W + number1);
        String Z = "The value of number2 is :";
