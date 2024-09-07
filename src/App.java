@@ -11,6 +11,7 @@ public class App {
        int number3 = 80;
        System.out.println(number1); // Printed number1 , 7th question
        System.out.println(number2);
+       System.out.println(Y);
 
        String W = "The value of number1 is :"; 
        System.out.println( W + number1);
