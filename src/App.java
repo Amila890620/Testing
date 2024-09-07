@@ -19,6 +19,10 @@ public class App {
        int total = number1+number2+number3+number4;
        System.out.println(total);
 
+       int totmulti= number1*number2*number3*number4;
+       System.out.println(totmulti);
+
+
 
        String W = "The value of number1 is :"; 
        System.out.println( W + number1);
