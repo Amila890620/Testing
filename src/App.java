@@ -36,5 +36,9 @@ public class App {
 
        int multi = (number2 * number3);
        System.out.println(number2  + "*" + number3 + "=" + multi);
+
+       
+       int subst = (number2 - number3);
+       System.out.println(number2  + "-" + number3 + "=" + subst);
     }
 }
