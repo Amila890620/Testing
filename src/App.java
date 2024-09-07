@@ -6,8 +6,8 @@ public class App {
         String Y = "This app is made by:";
        System.out.println( Y + creator);
 
-       int number1 = 5;
-       int number2 = 2;
+       int number1 = 70;
+       int number2 = 20;
        System.out.println(number1); // Printed number1 , 7th question
        System.out.println(number2);
 
